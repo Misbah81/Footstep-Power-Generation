@@ -17,6 +17,14 @@ This project is useful for:
 
 ---
 
+🎥 Project Demo Video
+
+![WhatsApp Image 2026-02-15 at 6 15 40 PM (1)](https://github.com/user-attachments/assets/8668f2a1-9d28-415a-88fa-446d71e3472b)
+![WhatsApp Image 2026-02-15 at 6 15 40 PM](https://github.com/user-attachments/assets/9e2f9c1d-3668-49c8-bacb-09a1d233589b)
+
+---
+
+
 # 🧰 Hardware Components Required
 
 | Component                    | Quantity  | Description                     |
@@ -111,6 +119,15 @@ Voltage formula used:
 ```
 Voltage(mV) = (ADC_value × 5000) / 1023
 ```
+
+🎥 Project Demo Video
+
+
+https://github.com/user-attachments/assets/40ad183c-30a3-4fbd-a11f-4d923e5d52e0
+
+
+
+
 
 ---
 
